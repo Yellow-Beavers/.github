@@ -1,4 +1,4 @@
-# 🎮 Yellow Beavers 🦫
+# 🎮 Yellow Beavers 
 
 **Yellow Beavers** es una nueva startup formada por estudiantes de ingeniería del software que están listos para sacudir el mundo de los juegos! Como equipo, estamos entusiasmados por crear experiencias de juego emocionantes y adictivas que mantendrán a los jugadores pegados a sus pantallas.
 
